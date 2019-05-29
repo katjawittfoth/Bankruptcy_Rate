@@ -11,7 +11,7 @@ We applied multivariate time series models (SARIMAX, VARX). The validation data 
 
 ## Final model won class competition
 Our final model is an emsembled of top 10 SARIMAX models with RMSE 0.12. We were ranked top 1 among 22 teams in the class competition.
-<p align="center"> <img src="Images/prediction.png" align="middle" width=300>
+<p align="center"> <img src="Images/prediction.png" align="middle" width=600>
 </p>
 
 [Multivariate model impementation code in R](https://github.com/katjawittfoth/Bankruptcy_Rate/blob/master/Time%20Series%20Modeling.ipynb)
