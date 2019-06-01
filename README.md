@@ -10,7 +10,7 @@ The data for bankruptcy rate 1987-2014 was given along with corresponding data o
 We applied multivariate time series models (SARIMAX, VARX). The validation data is the subset data from 2011 to 2014, we used validation data to tune parameters for each model. Then we refit the model on whole data we have, made the prediction for the next 3 years (2015-2017) and compared it with the true value. We used RMSE as the loss function. 
 
 ## Final model won class competition
-Our final model is an emsembled of top 10 SARIMAX models with RMSE 0.12. We were ranked top 1 among 22 teams in the class competition.
+Our final model is an ensembled of top 10 SARIMAX models with RMSE 0.12. We were ranked top 1 among 22 teams in the class competition.
 <p align="center"> <img src="Images/prediction.png" align="middle" width=600>
 </p>
 
