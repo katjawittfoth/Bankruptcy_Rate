@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-The risk of bankruptcy is often priced into interest rates or baked into the price for insurance rate. That is why being able to predict country's national bankruptcy rate is important for many businesses.
-In our project, we aim to accurately forecast monthly bankruptcy rate in Canada for the period 2015-2017.
+The risk of bankruptcy is often priced into interest rates or factored into the price for insurance rate. That is why being able to predict country's national bankruptcy rate is important for many businesses.
+In our project, we aimed to accurately forecast monthly bankruptcy rate in Canada for the period 2015-2017.
 
 The data for bankruptcy rate 1987-2014 was given along with corresponding data on unemployment rates, population rates, and Housing Price Index. 
  
